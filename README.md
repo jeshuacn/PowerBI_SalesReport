@@ -4,7 +4,7 @@
 
 [Project Dashboard App]: https://img.shields.io/badge/PowerBI_Report-37a779?style=for-the-badge
 
-![Thumbnail](https://github.com/jeshuacn/PowerBI_SalesReport/assets/33787097/b5c63727-d342-4e41-8b8f-c172c8ec886b)
+![Thumbnail](https://github.com/jeshuacn/PowerBI_SalesReport/assets/33787097/644c9d8b-c0d1-452f-ab84-be0306fb715e)
 
 
 This project involved designing and delivering end-to-end business intelligence solutions for the company by creating a PowerBI sales report for the company.
