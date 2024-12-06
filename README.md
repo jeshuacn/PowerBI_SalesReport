@@ -1,6 +1,7 @@
 # PowerBI Sales Report
 
-[![Project Dashboard App]](https://app.powerbi.com/view?r=eyJrIjoiODEwOWI1YzQtNDEyMS00M2E2LTkyM2MtMGY1MDNlNzUwMzJmIiwidCI6Ijk0Njk5YWYyLTdjZDItNGEzOS1hYTY4LTRjNWU3MDJiMmZhMSJ9&embedImagePlaceholder=true)
+[![Project Dashboard App]](https://app.powerbi.com/view?r=eyJrIjoiZGNhMGU3MDUtOGM3Zi00MmYwLWEyMTctNjM5ZTRkYTVmZjFiIiwidCI6Ijk0Njk5YWYyLTdjZDItNGEzOS1hYTY4LTRjNWU3MDJiMmZhMSJ9&embedImagePlaceholder=true)
+
 
 [Project Dashboard App]: https://img.shields.io/badge/PowerBI_Report-37a779?style=for-the-badge
 
